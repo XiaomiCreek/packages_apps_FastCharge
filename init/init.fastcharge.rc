@@ -4,8 +4,8 @@ on boot
     chmod 0664 /sys/class/qcom-battery/input_suspend
 
     # Allow system to modify night_charging
-    chown system system /sys/class/power_supply/batterynight_charging
-    chmod 0664 /sys/class/power_supply/batterynight_charging
+    chown system system /sys/class/power_supply/battery/night_charging
+    chmod 0664 /sys/class/power_supply/battery/night_charging
 
     # Allow system to modify charge_control_limit
     chown system system /sys/class/power_supply/battery/charge_control_limit
