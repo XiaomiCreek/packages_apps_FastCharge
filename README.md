@@ -1,10 +1,10 @@
-# FastCharge for Redmi Note 13 4G (Sapphire)
+# FastCharge for Redmi 15 4G / POCO M7 4G (creek)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-36%2B-brightgreen.svg)](https://android-arsenal.com/api?level=36)
 
-A modern Android system app for controlling charging speeds for Xiaomi Redmi Note 13 4G (Sapphire) with Material Expressive design.
+A modern Android system app for controlling charging speeds for Xiaomi Redmi 15 4G / POCO M7 4G (creek) with Material Expressive design.
 
 ## Overview
 
@@ -21,7 +21,7 @@ FastCharge provides a user-friendly interface to control your device's charging 
 ### 1. Clone the Repository
 
 ```bash
-git clone -b 16-qpr2 https://github.com/Liekoo/packages_apps_FastCharge packages/apps/FastCharge
+git clone -b 16-qpr2 https://github.com/XiaomiCreek/packages_apps_FastCharge packages/apps/FastCharge
 ```
 
 ### 2. Add to Device Makefile
@@ -80,7 +80,7 @@ this project already has fastcharge implementation embedded as based so it only 
 ## All Credits to:
 
 - **Developer**: Liekoo
-- **Adapted to Saphire**: Redmi note 13 4G (sapphire)
+- **Adapted to Saphire**: Redmi 15 4G / POCO M7 4G (creek)
 - **Original Concept**: [Peridot FastCharge](https://github.com/peridot-hyperos-2/packages_apps_FastCharge)
 - All thanks to @kenway214 for Original Concept
 - **Inspiration**: Xiaomi TurboCharging implementation
@@ -92,4 +92,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ---
 
-**Made specifically ⚡ for Redmi Note 14 4G GLOBAL/NFC (sapphire/sapphiren)**
+**Made specifically ⚡ for Redmi 15 4G / POCO M7 4G (creek)**
